@@ -1,7 +1,8 @@
 # Kafka-MongoDB-CDC-App
 
 It is a basic Kafka- MongoDB Producer-Consumer Example.
-Also it has docker-compose file.
+Also it has docker-compose file. 
+In this system, when producer start producing, it is produce some sample number data every 10 minutes.
 
 ## Available Scripts
 
