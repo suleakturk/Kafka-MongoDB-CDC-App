@@ -17,7 +17,7 @@ Also it has docker-compose file.
 
 ### [http://localhost:8081/](http://localhost:8081/)
 
-- After that, you can start producer and consumer for produce sample number datas into KafDrop:
+- After that, you can start producer and consumer for produce sample number datas into KafDrop with using this script on terminal:
 
 ### `python producer.py` for run producer and produce datas but just wait few minutes..
 
