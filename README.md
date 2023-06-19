@@ -23,14 +23,14 @@ Also it has docker-compose file.
 
 ### `python consumer.py` for run consumer for fetch datas
 
-- Example screens for sample number datas on Kafdrop:
+- Example screens for sample number datas on Kafdrop in the first screen:
 
 ![Alt text](image.png)
 
-- Then
+- After start the producer & consumer with python tag, the screen will change like:
 
 ![Alt text](image-1.png)
 
-- When we view messages:
+- When we click "view messages" in Numbers topic, we can see which data add into Numbers table in MongoDB:
 
 ![Alt text](image-2.png)
